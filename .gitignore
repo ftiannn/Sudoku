@@ -1,0 +1,15 @@
+# Ignore compiled Java classes
+*.class
+
+# JARs
+*.jar
+
+# IntelliJ / Eclipse project files (if you use them)
+*.iml
+.idea/
+*.project
+*.classpath
+
+# OS files
+.DS_Store
+Thumbs.db

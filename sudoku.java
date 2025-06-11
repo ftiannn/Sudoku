@@ -1,5 +1,3 @@
-package sudoku;
- 
 import java.io.*;
 import java.net.URL;
 import javax.sound.sampled.*;
@@ -9,8 +7,6 @@ import java.util.Arrays;
 import java.util.Random;
  
 import javax.swing.*; // Uses Swing's Container/Components
- 
- 
  
 public class Sudoku extends JFrame {
       
